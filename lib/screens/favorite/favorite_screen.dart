@@ -23,7 +23,7 @@ class FavoriteScreen extends StatelessWidget {
                 itemCount: demoProducts.length,
                 gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
                   maxCrossAxisExtent: 200,
-                  childAspectRatio: 0.7,
+                  childAspectRatio: 0.6,
                   mainAxisSpacing: 20,
                   crossAxisSpacing: 16,
                 ),
